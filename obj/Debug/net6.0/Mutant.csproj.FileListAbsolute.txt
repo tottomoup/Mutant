@@ -1,0 +1,15 @@
+C:\Users\tobia\OneDrive - FKF-Skoler\Hansenberg\programering\C#\CSharp\0_HelloWorld\Mutant\bin\Debug\net6.0\Mutant.exe
+C:\Users\tobia\OneDrive - FKF-Skoler\Hansenberg\programering\C#\CSharp\0_HelloWorld\Mutant\bin\Debug\net6.0\Mutant.deps.json
+C:\Users\tobia\OneDrive - FKF-Skoler\Hansenberg\programering\C#\CSharp\0_HelloWorld\Mutant\bin\Debug\net6.0\Mutant.runtimeconfig.json
+C:\Users\tobia\OneDrive - FKF-Skoler\Hansenberg\programering\C#\CSharp\0_HelloWorld\Mutant\bin\Debug\net6.0\Mutant.dll
+C:\Users\tobia\OneDrive - FKF-Skoler\Hansenberg\programering\C#\CSharp\0_HelloWorld\Mutant\bin\Debug\net6.0\Mutant.pdb
+C:\Users\tobia\OneDrive - FKF-Skoler\Hansenberg\programering\C#\CSharp\0_HelloWorld\Mutant\obj\Debug\net6.0\Mutant.csproj.AssemblyReference.cache
+C:\Users\tobia\OneDrive - FKF-Skoler\Hansenberg\programering\C#\CSharp\0_HelloWorld\Mutant\obj\Debug\net6.0\Mutant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tobia\OneDrive - FKF-Skoler\Hansenberg\programering\C#\CSharp\0_HelloWorld\Mutant\obj\Debug\net6.0\Mutant.AssemblyInfoInputs.cache
+C:\Users\tobia\OneDrive - FKF-Skoler\Hansenberg\programering\C#\CSharp\0_HelloWorld\Mutant\obj\Debug\net6.0\Mutant.AssemblyInfo.cs
+C:\Users\tobia\OneDrive - FKF-Skoler\Hansenberg\programering\C#\CSharp\0_HelloWorld\Mutant\obj\Debug\net6.0\Mutant.csproj.CoreCompileInputs.cache
+C:\Users\tobia\OneDrive - FKF-Skoler\Hansenberg\programering\C#\CSharp\0_HelloWorld\Mutant\obj\Debug\net6.0\Mutant.dll
+C:\Users\tobia\OneDrive - FKF-Skoler\Hansenberg\programering\C#\CSharp\0_HelloWorld\Mutant\obj\Debug\net6.0\refint\Mutant.dll
+C:\Users\tobia\OneDrive - FKF-Skoler\Hansenberg\programering\C#\CSharp\0_HelloWorld\Mutant\obj\Debug\net6.0\Mutant.pdb
+C:\Users\tobia\OneDrive - FKF-Skoler\Hansenberg\programering\C#\CSharp\0_HelloWorld\Mutant\obj\Debug\net6.0\Mutant.genruntimeconfig.cache
+C:\Users\tobia\OneDrive - FKF-Skoler\Hansenberg\programering\C#\CSharp\0_HelloWorld\Mutant\obj\Debug\net6.0\ref\Mutant.dll
